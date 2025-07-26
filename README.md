@@ -3,7 +3,7 @@
 *Healthcare Technology Leadership*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Ahzaam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahzaam-fawmee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahzaam)
 
 ---
 
@@ -23,7 +23,7 @@ Senior technology executive with 4+ years of experience architecting enterprise-
 ## Healthcare Technology Leadership
 
 **EMR Integration & Compliance**  
-Deep expertise in integrating complex healthcare software with major EMR systems including Salesforce Health Cloud, Bayada, and Clearcare. Responsible for ensuring HIPAA, SOC 2, and healthcare regulatory compliance across all technical implementations.
+Deep expertise in integrating complex healthcare software with major EMR systems like Salesforce Health Cloud. Responsible for ensuring HIPAA, SOC 2, and healthcare regulatory compliance across all technical implementations.
 
 **AI-Powered Healthcare Solutions**  
 Leading development of machine learning applications for clinical decision support, predictive analytics, and automated healthcare documentation. Experience with large language model fine-tuning and deployment in healthcare environments.
@@ -61,5 +61,3 @@ Developing Sri Lanka's next-generation eCommerce platform with modern architectu
 Active contributor to the healthcare technology community through open-source projects and technical leadership initiatives.
 
 ---
-
-*This profile represents work in healthcare technology architecture and AI implementation. For detailed technical discussions or professional inquiries, please connect through LinkedIn.*
