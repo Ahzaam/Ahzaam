@@ -1,33 +1,23 @@
 # Hi, I’m Ahzam Fawmee 👋
 
-I’m a Lead Software Engineer and Solutions Architect with extensive experience across full-stack development, cloud-native solutions, AI/ML, and healthcare integrations.
+Lead Software Engineer & Solutions Architect specializing in scalable, secure AI-powered healthcare solutions.
 
 ---
 
-## Core Expertise
+## What I bring to the table
 
-- **Languages & Frameworks:** JavaScript/TypeScript (React, Angular, Next.js, Vue), Python (FastAPI, Django), C#, Java, Rust, and more  
-- **Backend & APIs:** Node.js, .NET, GraphQL, RESTful APIs, WebSockets  
+- Proven expertise in full-stack development with modern frameworks and cloud-native architectures.  
+- Extensive experience in AI/ML, machine learning model deployment, and healthcare data compliance.  
+- Skilled in integrating complex systems, including major EMRs and real-time data platforms.  
+- Leading and collaborating with global, cross-functional teams to deliver enterprise-grade software.
+
+---
+
+## Technical Highlights
+
+- **Languages & Frameworks:** JavaScript/TypeScript (React, Angular, Next.js, Vue), Python (FastAPI, Django), C#, Java, Rust  
 - **Cloud & DevOps:** Azure, AWS, GCP, Docker, Kubernetes, Terraform, Jenkins  
-- **Databases:** MySQL, PostgreSQL, MSSQL, Firebase (Realtime DB & Firestore)  
-- **Compliance & Security:** HIPAA, SOC 2, Okta  
-- **AI/ML & Data Science:** Hugging Face, OpenAI, TensorFlow, PyTorch, Predictive Analytics  
-- **IoT & Edge Computing:** ESP-32, Raspberry Pi, MQTT  
-- **Specialized Tools & Integrations:** Firebase, Twilio, Zoom API, WhatsApp Bots, Figma  
-- **Media & Streaming:** HLS, WebRTC, FLV  
-
----
-
-## What I Do
-
-I design and implement scalable, secure software solutions for healthcare AI, integrating with complex systems while ensuring compliance and data privacy.
-
-I lead distributed, cross-functional teams, balancing hands-on engineering with strategic architectural planning.
-
----
-
-## 📫 Get in touch
-
-Connect with me on LinkedIn: [linkedin.com/in/ahzaam](https://www.linkedin.com/in/ahzaam/)
-
----
+- **Databases & APIs:** MySQL, PostgreSQL, MSSQL, Firebase, REST, GraphQL, WebSockets  
+- **AI & Data Science:** Hugging Face, OpenAI, TensorFlow, PyTorch, Predictive Analytics  
+- **Compliance:** HIPAA, SOC 2, Okta  
+- **IoT & Streaming:** ESP-32, Raspberry Pi, MQTT, HLS, WebRTC  
